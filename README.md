@@ -1,16 +1,15 @@
-# techlift_flutter
+# Flutter Assignments Techlift 
 
-A new Flutter project.
+A Assignment Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Repor has three Apps as class assignments assigned by techlift Instructor:
 
-A few resources to get you started if this is your first Flutter project:
+- Resume App [UI]
+- Average Grade Calculator [Flutter Hooks, ValueChanger]
+- Searching Name [Flutter hooks, StreamBuilder]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/ruqaiyasattar/flutter-techlift-task/assets/12498051/a586adfa-a300-4aea-874c-43d4deab80ce
+
